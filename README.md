@@ -23,7 +23,7 @@ A collection of implementations of algorithms for the Feedback Arc Set problem
 
 ### Install Packages
 
-* * cp downloaded jar file to  directory (ubuntu, may use root previlege): ```/usr/lib/jvm/java-8-oracle/jre/lib/ext```
+* cp downloaded jar file to  directory (ubuntu, may use root previlege): ```/usr/lib/jvm/java-8-oracle/jre/lib/ext```
 
 #### Compile
 
